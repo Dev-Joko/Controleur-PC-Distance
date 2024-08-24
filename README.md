@@ -1,4 +1,6 @@
-Français :
+🏳 Français :  
+▶ Objectif : Pouvoir allumer et éteindre son PC fixe depuis Discord et n'importe où. Le Raspberry doit toujours être allumé et l'alimentation du PC fixe également.  
+
 
 Structure :  
           - index.js : fichier principal du bot Discord  
@@ -38,7 +40,11 @@ Circuit complet :
 ![Circuit](https://github.com/user-attachments/assets/c6a6cfc7-e17d-4e0f-8b57-05b42092fed5)
 
 
-English :  
+
+
+🏳 English :  
+▶ Objective: To be able to turn on and off your desktop PC from Discord and anywhere. The Raspberry Pi must always be on, and the desktop PC's power supply as well.  
+
 
 Structure:  
           - index.js: main file of the Discord bot  
